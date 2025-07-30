@@ -1,1 +1,1 @@
-# invenyry-mg
+# inventry-mg
